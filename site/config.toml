@@ -5,9 +5,9 @@ title = "Bit it Rain! blog"
 
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
-paginate = 3
+paginate = 5
 disqusShortname = ""
-googleAnalytics = ""
+googleAnalytics = "UA-106857627-1"
 pluralizeListTitles = false
 
 [params]
